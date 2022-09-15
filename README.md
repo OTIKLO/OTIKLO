@@ -14,11 +14,9 @@
 <div align=center><h3>Introduce</h3></div>
 
 ------------
-+ Name : 황의충 <br>
-+ Birth : 1998.07.01 <br>
-+ Address : 인천광역시 부평구 길주남로 <br>
-+ E-mail : aaa7284@naver.com <br>
-+ Github : OTIKLO <br>
++ Name : 황의충 　　　　　　　　　　　　　　　　　　　　　　　　 Birth : 1998.07.01 <br>
++ Address : 인천광역시 부평구 길주남로 　　　　　　　　　　　　　&nbsp;&nbsp; E-mail : aaa7284@naver.com <br>
++ Github : OTIKLO https://otiklo.github.io/
 
 ------------
 <div display=flex>
